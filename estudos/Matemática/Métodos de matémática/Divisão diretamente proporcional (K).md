@@ -1,0 +1,3 @@
+- "Colocar o k"
+- ![[Pasted image 20231208215638.png]]
+- 

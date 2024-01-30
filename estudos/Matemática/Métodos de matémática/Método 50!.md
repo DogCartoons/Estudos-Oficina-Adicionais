@@ -1,0 +1,2 @@
+- Sublinhar o que é importante 
+- "Garantir 50% outros 50% são baseados na conta"

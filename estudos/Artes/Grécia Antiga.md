@@ -6,7 +6,8 @@
           - Agradecer os Deuses
 
                       Técnicas
-    Uso do Bronze e mármore (A fim de talhar o corpo humano) e da encáustica para pintura (Promove mais expressividade nas peças)
+    Uso do Bronze e mármore (A fim de talhar o corpo humano)
+    Uso da encáustica para pintura (Promove mais expressividade nas peças)
 
                       Arquitetura
           - Templos, Teatros e estádios

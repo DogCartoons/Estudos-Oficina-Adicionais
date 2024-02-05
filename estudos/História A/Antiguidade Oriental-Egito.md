@@ -1,3 +1,4 @@
-              ***Egito***
-    _Localização_
+                                          Egito
+    Localização
                 - O Egito é uma dádiva do Rio Nilo
+                

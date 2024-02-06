@@ -1,17 +1,17 @@
-                                              Egito
-    Localização
+                                    Egito
+  Localização
                 - O Egito é uma dádiva do Rio Nilo
 
-    Economia
+  Economia
                 - Civilização de Regádio
                       Cultura e comércio
-    Religião
+  Religião
                 - Politeístas
                       Deuses Antropozoomórficos
 
-                Mumificação: Ritual feito pelos sacerdotes para a "Vida eterna"
+    Mumificação: Ritual feito pelos sacerdotes para a "Vida eterna"
 
-    Legados    
+  Legados    
                 -   Arquitetura: Construção de pirâmides, Templos e Esfinges
                 -   Anatomia humana: Conhecimento atravéz da mumificação
                 -   Matemática: Noções de Calculos e geometria

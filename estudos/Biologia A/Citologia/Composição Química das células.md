@@ -1,15 +1,15 @@
-                                  ***Composição Química das Células***
-       _Substâncias_
-Inorgânicas -Sais Minerais
-            -Água
+             Composição Química das Células
+       Substâncias
+Inorgânicas - Sais Minerais
+            - Água
 
-Orgânicas -Carboidratos
-          -Lipídeos
-          -Proteínas
-          -Ácidos Nucleicos
-          -Vitaminas
+Orgânicas - Carboidratos
+          - Lipídeos
+          - Proteínas
+          - Ácidos Nucleicos
+          - Vitaminas
 
-                              Água (H20)
+       Água (H20)
   - Solvente "universal" = grande poder de dissolução
   - A água involve algumas moléculas tornando-as reativas
   - A água é o palco das reações químicas (Todas as reações vitais ocorrem em meio aquoso)
@@ -20,28 +20,29 @@ Orgânicas -Carboidratos
   - Controle de temperatura (Ex: Tranpiração)
 
                             Sais minerais
-              Ferro (FE)
+
+            Ferro (FE)
   - A hemoglobina é uma proteína que possui Ferro
   - Transporta o oxigênio para os tecidos
       *A falta de ferro na dieta resulta em Anemia Ferropriva
 
-              Calcio (Ca)
+            Calcio (Ca)
   - Presente nos ossos / Dentes
   - Participa da: Contração muscular
                   Coagulação Sanguínea
                   Sinapse 
       * Entroporose = Ossos muito porosos devido a Falta de Calcio na dieta
 
-              Iodo (I)
+            Iodo (I)
   - Presente nos hormônios da tireoide (T3 ; T4) -> Estimulam a respiração Celular
 
-              Magnésio (Mg)
+            Magnésio (Mg)
   - Presente na Clorofila e nos Ribossomos
   - Participa da contração muscular (Apenas na forma de Ion "Mg++"
              
-              Fósforo (P)
+            Fósforo (P)
   - Presente nos ossos, dentes, DNA, RNA, ATP e nas membranas
 
-              Sódio (Na) e Potássio (K)
+            Sódio (Na) e Potássio (K)
   - Participam da condução do impulso nervoso
   - Participam do controle hídrico do organismo

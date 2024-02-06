@@ -6,11 +6,13 @@
                   -Impossibilidade de realizar experimentos sociais
                   -Presença do sociologo altera a dinâmica de convivência do grupo social analizado
 
-        Apesar de tais dificildades, é necessário que o sociologo faça pesquisas com rigor teórico, busque dados, informações e faça análizes que permitam embasar teoricamente sua interpretação da realidade.
+        Apesar de tais dificildades, é necessário que o sociologo faça pesquisas com rigor teórico,
+        busque dados, informações e faça análizes que permitam embasar teoricamente sua interpretação da realidade.
         A sociologia não pode permanecer no campo do senso comum
 
                                       Senso Comum
-                  -Opniões, crenças, saberes, preconceitos compartilhados no interior de um grupo social que não possuem comprovação científica ou embasamento teórico
+                  -Opniões, crenças, saberes, preconceitos compartilhados no interior de um grupo social
+                  que não possuem comprovação científica ou embasamento teórico
 
                                O contexto do surgimento da sociologia
                   - Revolução industrial (+-1750)

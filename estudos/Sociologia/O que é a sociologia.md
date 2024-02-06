@@ -18,4 +18,4 @@
                   - Revolução industrial (+-1750)
                   - Exôdo Rural
                   - Novos Conflitos entre Burgueses e operários
-                  - Problemas sociais urbanos se intensificam: Fome, Criminalidade, Prostituição, Alcoolismo e etc...
+                  - Problemas sociais urbanos se intensificam: Fome, Criminalidade, Prostituição, Alcoolismo e etc.

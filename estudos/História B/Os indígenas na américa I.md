@@ -5,11 +5,10 @@
                                                                                 (estreito de Bering)
 
        Os maias
-       
+   
          Povo organizado em Cidades / Estados
        
           - Tikal, Palenque, Chichen Itzá
-       
           - Economia: Pesca e agricultura ( Milho - Alimento sagrado )
 
        Cultura e Legado
@@ -24,10 +23,12 @@
        
     Localização: Atual México
     Organização: Aliança entre diferentes povos governados por Montezuma II
+   
           - Cobrança de impostos e exercito para proteção
           - Principal cidade de Tenochtitlan
    
     Economia: Agricultura e Comércio
+   
           - Chinampos: Plataformas flutuantes para agricultura
           - Comercializavam os exedentes (Escambo) em feiras locais
     A conquista - Espanhol, Hermán Cortés

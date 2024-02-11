@@ -1,7 +1,6 @@
   A ocupação Humana da América
   
  - +- 20 mil anos atras
- - 
      - Em decorrência da gacialização estabeleceu-se uma ligação entre a Ásia e a América do norte
                                                                                 (estreito de Bering)
 

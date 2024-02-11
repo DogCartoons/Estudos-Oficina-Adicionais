@@ -4,12 +4,16 @@
                                                                                 (estreito de Bering)
 
        Os maias
+       
          Povo organizado em Cidades / Estados
-           - Tikal, Palenque, Chichen Itzá
-           - Economia: Pesca e agricultura
-                                  - Milho - Alimento sagrado
+       
+          - Tikal, Palenque, Chichen Itzá
+       
+          - Economia: Pesca e agricultura
+                             - Milho - Alimento sagrado
 
        Cultura e Legado
+       
            - Sistema de escrita Hieróglifica
            - Sistema orietemático vigesimal
            - Conhecimentos astronômicos

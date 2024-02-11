@@ -36,8 +36,10 @@ Demócrito e Leucipo -> 1° Ideia de Átomo (Indivisivel)
 - Eletrosfera (Vazio)
      (Descontínuo)
     
-  Experimento de Rutherford (Parede de ouro)
+          Experimento de Rutherford (Parede de ouro)
+  
      1° Observação - Moléculas passavam direto
+  
      2° Observação - Rotação da molécula Mudava / Ricochetava
 
 

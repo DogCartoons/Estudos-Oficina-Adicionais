@@ -1,11 +1,14 @@
 	Classificação Biológica
 
  Taxonomia
-	- Ciência que dá nome
+	
+ - Ciência que dá nome
  Sistemática
- 	- Ciência que organiza e classifica
+
+   - Ciência que organiza e classifica
  Filogenia
-  	- Ciência que define o parentesco evolutivo
+
+   - Ciência que define o parentesco evolutivo
 
    	Categorias Taxonômicas
     1. Domínio

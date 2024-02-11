@@ -1,17 +1,17 @@
-    Atomística
+          Atomística
 
    +- 400 A.C
    
 Demócrito e Leucipo -> 1° Ideia de Átomo (Indivisivel)
 
-     Aristóteles
+          Aristóteles
   4 Elementos
 - Terra
 - Água
 - Ar
 - Fogo
 
-    1808
+          1808
   John Dalton
 - 1° Modelo atômico (Bola de bilhar) -> Átomo como uma Esfera maciça e Homogênea
 - Átomo Indivisível
@@ -20,7 +20,7 @@ Demócrito e Leucipo -> 1° Ideia de Átomo (Indivisivel)
 - Reações Químicas são rearranjos atômicos
      (Usado para demonstrar elementos / substâncias)
      
-    1897
+          1897
   J.J Thomson 
 - 2° Modelo atômico (Pudim de Passas)
 - Átomo divisível
@@ -29,7 +29,7 @@ Demócrito e Leucipo -> 1° Ideia de Átomo (Indivisivel)
      (Explica fenômenos elétricos "Divisão")
      (Elétron = Negativo              Próton = Posivito)
 
-    1911
+          1911
   E. Rutherford
 - 3° Modelo atômico (Planetário)
 - Núcleo Positivo e Denso
@@ -41,7 +41,7 @@ Demócrito e Leucipo -> 1° Ideia de Átomo (Indivisivel)
      2° Observação - Rotação da molécula Mudava / Ricochetava
 
 
-    1913
+          1913
   N. Bohr
 - Órbitas Circulares
 - Com valores de energia
@@ -51,7 +51,7 @@ Demócrito e Leucipo -> 1° Ideia de Átomo (Indivisivel)
      (Organiza a elétrosfera em níveis - Luz)
   Energia = K.F
 
-      1932
+          1932
   Chadwick
 - Descobre o Nêutron
 

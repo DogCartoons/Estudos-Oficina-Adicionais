@@ -46,8 +46,11 @@ Demócrito e Leucipo -> 1° Ideia de Átomo (Indivisivel)
 - Órbitas Circulares
 - Com valores de energia
 - O elétron pode receber energia externa e voltar para niveis mais externos
+
      (Estado normal - Elétron em sua area de origem "Próximo do núcleo")
+  
      (Estado Exitado - Elétron longe do núcleo)
+  
      (Organiza a elétrosfera em níveis - Luz)
   Energia = K.F
 

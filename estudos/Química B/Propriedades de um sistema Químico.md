@@ -16,4 +16,14 @@
 {Densidade = Massa / Volume = 1g/ml}
 
               3 Propriedades da matéria
+
+ - Propriedades gerais ( São comum para todas as substâncias, portanto, não são usadas para identifica-las)
+
+     Massa -> Identifica a quantidade de matéria presente na amostra
+   
+     Unidades:
+   
+                  1kg = 1000g
+                  1T = 1000Kg
+                  1g = 1000mg
    

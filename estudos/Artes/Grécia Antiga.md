@@ -8,6 +8,7 @@
 
                       Técnicas
     Uso do Bronze e mármore (A fim de talhar o corpo humano)
+   
     Uso da encáustica para pintura (Promove mais expressividade nas peças)
 
                       Arquitetura

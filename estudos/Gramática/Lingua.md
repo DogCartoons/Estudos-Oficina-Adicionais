@@ -1,13 +1,13 @@
       Conceito amplo e complexo
 
-   Produção de sentidos:
+         Produção de sentidos:
    
  - Aspectos sociais     }
  - Aspectos históricos  }  Posicionamento político-social
  - Aspectos Culturais   }
 
 
-   Interpretar Textos
+         Interpretar Textos
 
  - entender todos os sentidos envolvidos
 

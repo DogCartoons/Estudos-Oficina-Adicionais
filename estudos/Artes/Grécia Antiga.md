@@ -13,6 +13,9 @@
                       Arquitetura
  - Templos, Teatros e estádios
  - Harmonia e perfeição: proporção e funcionalidade
- - 3 ordems -> Dórica (Representa o Masculino - firmes e fortes
+
+ - 3 ordems:
+
+            -> Dórica (Representa o Masculino - firmes e fortes
             -> Jônico (Representa o Feminino - Elegância
             -> Coríntio (Representa o Luxo / Riquesa)

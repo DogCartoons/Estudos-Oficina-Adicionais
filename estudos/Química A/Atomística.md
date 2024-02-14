@@ -61,9 +61,11 @@ Demócrito e Leucipo -> 1° Ideia de Átomo (Indivisivel)
 - Descobre o Nêutron
 
 
-    Átomo Clássico                    Mrel                    C
-    Núcleo - Próton                P = 1U                    +1
-           - Nêutron               N = 1U                     0
+       Átomo Clássico                    Mrel                    C
+  
+       Núcleo - Próton                P = 1U                    +1
+  
+              - Nêutron               N = 1U                     0
 
     Eletrosfera - Elétrons         E = 1/1836 U              -1
 

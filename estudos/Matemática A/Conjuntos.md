@@ -17,4 +17,6 @@
 
 
           Igualdade entre conjuntos
-   
+ - Dois conjuntos são iguais se possuem os mesmos elementos
+
+          I

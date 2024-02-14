@@ -1,4 +1,4 @@
-                      Grécia Antiga
+
               Escultura tinha como objetivo:
 
  - Idealizar o vigor físico e intelectual

@@ -78,3 +78,17 @@
 
         E = ∅
    obs: [ ∅ ] não é conjunto vazio
+
+
+          Subconjuntos
+
+   - Se todos os elementos de um conjunto A são também elementos de um conjunto B
+     
+   Dizemos que:
+   
+   - "A está contido em B" ou que "A é subconjunto de B"
+
+           A ⊂ B (Está contido)
+           A ∉ B (Não está contido)
+
+     

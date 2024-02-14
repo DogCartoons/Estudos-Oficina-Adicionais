@@ -12,6 +12,9 @@
  - entender todos os sentidos envolvidos
 
    { Sociais;           }
+   
    { Históricos;        }
+   
    { Culturais;         }
+   
    { de posicionamento; }
